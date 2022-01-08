@@ -1,2 +1,2 @@
 ### Y E S 
-smashhits.github.io/SmashHits
+[my page](https://smashhits.github.io/SmashHits/)
