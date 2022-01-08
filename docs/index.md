@@ -2,11 +2,11 @@
 
 noob coder who cannot do any thing :(
 
-i decided to put big boy pants on and make a page off of github (github.com)
+i decided to put big boy pants on and make a page off of [github](https://github.com/)
 
 ### about me
 
-i enjoy making music, scratch (scratch.mit.edu/users/smashbrosyeah) coding, drawing, and much more :)
+i enjoy making music, [scratch](https://scratch.mit.edu/users/smashbrosyeah/) coding, drawing, and much more :)
 
 ### Jekyll
 
@@ -14,4 +14,4 @@ Y E S they help with EPIC page
 
 ### EPIC STUFFS
 
-# [leaks](https://smashhits.github.io/SmahHitsleaks/)
+# [leaks and other random posts](https://smashhits.github.io/SmahHitsleaks/)
