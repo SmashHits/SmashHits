@@ -14,4 +14,4 @@ Y E S they help with EPIC page
 
 ### EPIC STUFFS
 
-there nothing here yet :(
+# [leaks](https://smashhits.github.io/SmahHitsleaks/)
